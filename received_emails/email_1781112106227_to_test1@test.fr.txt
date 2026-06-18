@@ -1,0 +1,16 @@
+==================================================
+SOURCE PROTOCOLE : SYSTEM-Onboarding
+SENDER/FROM      : "RelanceFacture Onboarding" <onboarding@relancefacture.saas>
+RECIPIENT/TO     : test1@test.fr
+SUBJECT/OBJET    : Accès Alpha validé - Bienvenue chez RelanceFacture !
+DATE D'ENVOI     : 10/06/2026 19:21:46
+==================================================
+
+Bonjour prénom test2,
+
+Votre demande d'accès à RelanceFacture a été approuvée !
+Pour finaliser l'installation et configurer le mot de passe administrateur de votre entreprise "test2", veuillez cliquer sur le lien unique ci-dessous :
+
+http://localhost:3001/auth/welcome?token=company-1781112106199:445ad1e653f42a0cb0b5358dada2bce2a1c119fdf547db75
+
+L'équipe RelanceFacture

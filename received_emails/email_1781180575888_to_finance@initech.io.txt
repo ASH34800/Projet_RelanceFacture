@@ -1,0 +1,17 @@
+==================================================
+SOURCE PROTOCOLE : HTTP-Relay
+SENDER/FROM      : "Service Comptable (Local)" <http://localhost:3001/auth/welcome?token=company-1781111373728:afc5392a36171c21f112d26bbb722c9422b79410197099ca>
+RECIPIENT/TO     : finance@initech.io
+SUBJECT/OBJET    : [AUTO] Relance Cordial - Facture N° FAC-2026-465
+DATE D'ENVOI     : 11/06/2026 14:22:55
+==================================================
+
+Bonjour Initech,
+
+Ceci est un message automatisé du service comptabilité.
+Votre facture N° FAC-2026-465 d'un montant de 110 € est en retard de règlement de 1 jours (échéance le 11/06/2026).
+
+Merci de procéder au règlement rapidement.
+
+Cordialement,
+Service Comptable (Local)

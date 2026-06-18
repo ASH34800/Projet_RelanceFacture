@@ -1,0 +1,16 @@
+==================================================
+SOURCE PROTOCOLE : SYSTEM-Onboarding
+SENDER/FROM      : "RelanceFacture Onboarding" <onboarding@relancefacture.saas>
+RECIPIENT/TO     : test@alphasandbox.com
+SUBJECT/OBJET    : Accès Alpha validé - Bienvenue chez RelanceFacture !
+DATE D'ENVOI     : 10/06/2026 19:09:33
+==================================================
+
+Bonjour Tester Onboarding,
+
+Votre demande d'accès à RelanceFacture a été approuvée !
+Pour finaliser l'installation et configurer le mot de passe administrateur de votre entreprise "Alpha Sandbox Corp", veuillez cliquer sur le lien unique ci-dessous :
+
+http://localhost:3001/auth/welcome?token=company-1781111373728:afc5392a36171c21f112d26bbb722c9422b79410197099ca
+
+L'équipe RelanceFacture

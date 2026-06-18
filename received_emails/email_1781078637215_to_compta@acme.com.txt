@@ -1,0 +1,17 @@
+==================================================
+SOURCE PROTOCOLE : HTTP-Relay
+SENDER/FROM      : "Service Comptable (Local)" <compta@localhost.com>
+RECIPIENT/TO     : compta@acme.com
+SUBJECT/OBJET    : [AUTO] Relance Ferme - Facture N° FAC-2026-010
+DATE D'ENVOI     : 10/06/2026 10:03:57
+==================================================
+
+Bonjour Entreprise ACME,
+
+Ceci est un message automatisé du service comptabilité.
+Votre facture N° FAC-2026-010 d'un montant de 2400 € est en retard de règlement de 27 jours (échéance le 15/05/2026).
+
+Merci de procéder au règlement rapidement.
+
+Cordialement,
+Service Comptable (Local)
